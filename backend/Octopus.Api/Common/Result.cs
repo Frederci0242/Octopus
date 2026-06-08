@@ -21,4 +21,4 @@ public class Result<T>
         ErrorCode = code,
         ErrorMessage = message
     };
-}
+} 
